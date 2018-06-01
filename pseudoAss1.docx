@@ -1,0 +1,16 @@
+
+
+-prompts user for acc name
+
+int noOfAccounts;
+-ask user for number of accounts ( >1 and <=20 )
+
+ask user for number, X if(X>0 && X<=20) {
+ noOfAccounts = X;
+
+allow user to enter names:
+
+while(i<=noOfAccounts){
+System.out.println(“What is the name of  the account holder?
+
+-analyses account details
